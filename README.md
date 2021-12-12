@@ -1,5 +1,5 @@
 # Introduction to SQL for BigQuery and Cloud SQL
-tes
+
 https://google.qwiklabs.com/focuses/2802?parent=catalog
 
 # CloudShell
